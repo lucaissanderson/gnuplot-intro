@@ -1,4 +1,4 @@
-# Assignment 1: Getting Acquainted with C and Unix
+# Getting Acquainted with C and Unix
 
 ## Files:
 
